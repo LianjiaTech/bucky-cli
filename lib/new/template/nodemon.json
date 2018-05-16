@@ -1,0 +1,5 @@
+{
+  "ignore": [ "src/statics/" ],
+  "watch": [ "src/", "package.json" ],
+  "ext": "js json ejs"
+}
